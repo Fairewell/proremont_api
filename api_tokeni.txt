@@ -1,0 +1,9 @@
+//server close code: proremont-exit-from-server-proremont12
+{
+id:1,
+token: e27b41239037561bf958a885895f32756f41e7ac195778c07f71e207532cf207
+},
+{
+id:2,
+token: 6864693266b0411e6f3ce66a1913d152a983c095c9f6160a058d01aa901dbf3d
+}
