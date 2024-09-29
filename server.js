@@ -10,7 +10,7 @@ const { log } = require('console');
 
 const app = express(); 
 app.use(cors()); 
-const PORT = 3000;
+const PORT = process.env.PORT || 4000;
 
 // Функция для получения текущей даты и времени в нужном формате
 function getCurrentTimestamp() {
